@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MCE_Microcontroladores")(type "KiCad")(uri "F:/Projectos/Ham/ESP32APRS_Audio/doc/KiCad/KiCad_Libraries/Libraries/MCE_Microcontroladores.kicad_sym")(options "")(descr ""))
+  (lib (name "MCE_Modulos")(type "KiCad")(uri "F:/Projectos/Ham/ESP32APRS_Audio/doc/KiCad/KiCad_Libraries/Libraries/MCE_Modulos.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "MCE_Modulos")(type "KiCad")(uri "F:/Projectos/Ham/ESP32APRS_Audio/doc/KiCad/KiCad_Libraries/Modules/MCE_Modulos.pretty")(options "")(descr ""))
+)
